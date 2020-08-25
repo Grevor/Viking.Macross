@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viking.Macross", "Viking.Macross\Viking.Macross.csproj", "{EFEFB175-637D-4444-B903-6EC85D9387A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viking.Macross.Interface", "Viking.Macross.Interface\Viking.Macross.Interface.csproj", "{3380477D-3EBD-481D-AFE8-109440E0C93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEFB175-637D-4444-B903-6EC85D9387A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEFB175-637D-4444-B903-6EC85D9387A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEFB175-637D-4444-B903-6EC85D9387A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEFB175-637D-4444-B903-6EC85D9387A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3380477D-3EBD-481D-AFE8-109440E0C93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3380477D-3EBD-481D-AFE8-109440E0C93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3380477D-3EBD-481D-AFE8-109440E0C93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3380477D-3EBD-481D-AFE8-109440E0C93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CC530B-CE50-4E7B-B71A-3A6D323F6021}
+	EndGlobalSection
+EndGlobal
